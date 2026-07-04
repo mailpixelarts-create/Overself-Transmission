@@ -1,0 +1,259 @@
+{
+    "common": {
+        "nav": {
+            "home": "Home",
+            "meditations": "Meditations",
+            "workbook": "Workbook",
+            "contact": "Contact",
+            "about": "About"
+        },
+        "footer": {
+            "rights": "All rights reserved."
+        },
+        "cta": {
+            "allMeditations": "All Meditations",
+            "downloadWorkbook": "Download Workbook",
+            "begin": "Let us begin",
+            "ready": "Ready to go deeper?",
+            "explore": "Explore the full library of twelve transmissions, or download the companion workbook to support your practice off the mat."
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Return to the Silence Within",
+            "subtitle": "Guided meditation sessions rooted in contemplative philosophy — dissolve distraction and return to the ground of your own being.",
+            "cta1": "Explore Meditations",
+            "cta2": "The Philosophy"
+        },
+        "masterIntro": {
+            "label": "Master Introduction",
+            "title": "The Overself Transmission",
+            "subtitle": "Twelve Philosophic Meditations Inspired by Paul Brunton",
+            "quote": "There is within you a presence that does not think, yet knows.\nIt does not struggle, yet governs.\nIt does not speak, yet guides.",
+            "p1": "For centuries, mystics have hinted at it. Philosophers have reasoned toward it. But few have described it with clarity and psychological precision as Paul Brunton did: the Overself — the higher consciousness behind the personality.",
+            "p2": "These twelve meditations are not relaxation exercises. They are structured inner investigations. They do not attempt to induce trance. They cultivate lucidity. They do not suppress the mind. They reveal the awareness behind it.",
+            "doorwayLabel": "Each session represents a different doorway:",
+            "doorways": [
+                "The Witness",
+                "The Long Path",
+                "The Short Path",
+                "Self-Observation",
+                "Detachment",
+                "Inner Guidance",
+                "Grace"
+            ],
+            "p3": "Progressively practiced, they lead from mental discipline to intuitive recognition — and finally toward silent communion with the Overself.",
+            "summary": "This is contemplative work. It is precise. It is sober. It is transformative."
+        },
+        "journey": {
+            "label": "The Journey",
+            "title": "Approaching the Journey",
+            "intro": "To receive the maximum benefit from this meditation series, you must approach it as a structured journey — not as isolated audio sessions.",
+            "phase1": {
+                "title": "Phase One — The Content and Inner Work",
+                "p1": "In this phase, you are training perception. Listen actively. Do not multitask. Sit properly. Take notes if necessary.",
+                "p2": "After each session, reflect briefly on what you observed — especially ego patterns, emotional reactions, and attention stability.",
+                "quote": "Do not chase experiences. Chase clarity.",
+                "p3": "Repeat sessions if needed. Depth comes from repetition, not novelty."
+            },
+            "phase2": {
+                "title": "Phase Two — The Visual and Environmental Alignment",
+                "p1": "The visual design, artwork, and aesthetic language are not decorative. They are psychological framing tools. Use them intentionally.",
+                "p2": "Create a consistent meditation space. Use the same poster, the same visual anchor, the same environment whenever possible.",
+                "p3": "This builds associative conditioning in the mind. Over time, simply entering that space will begin to quiet your system.",
+                "footer": "Respect the atmosphere. It trains the subconscious."
+            },
+            "phase3": {
+                "title": "Phase Three — Sound, Music, and Subtle Conditioning",
+                "p1": "The sound design is built to support attention, not entertain you. Listen with good headphones or quality speakers.",
+                "p2": "Avoid distractions. Do not use the meditation as background audio while doing other tasks.",
+                "p3": "Allow silence to work. Some sessions may feel minimal — that is intentional. Depth grows in quiet."
+            },
+            "principlesLabel": "Key Principles:",
+            "principles": [
+                "Consistency is more powerful than intensity.",
+                "Short daily practice is better than occasional long practice.",
+                "Integration into daily life is the real measure of progress."
+            ],
+            "guidance": "After each session, pause before returning to activity. Carry one insight into your day. Watch your reactions. Correct yourself gently but firmly.",
+            "guidanceQuote": "This is not about becoming spiritual. It is about becoming conscious.",
+            "guidanceSummary": "If you commit to the structure, respect the phases, and practice with sincerity, the benefits will accumulate quietly but steadily.",
+            "footer": [
+                "Do not hurry the process.",
+                "Stay with it.",
+                "And allow the work to reshape you over time."
+            ]
+        },
+        "featured": {
+            "label": "Featured Session",
+            "title": "Begin Here"
+        }
+    },
+    "meditations": {
+        "label": "The Practice",
+        "title": "Meditations",
+        "welcome": {
+            "title": "Welcome. I am glad you are here.",
+            "p1": "You are entering a meditation series inspired by the philosophical approach of Paul Brunton — a path that does not promise comfort, but clarity. This is not a system of emotional soothing. It is a disciplined inquiry into consciousness itself.",
+            "p2": "Meditation is not something you “do” to feel better for a while. It is something you enter because you are ready to see yourself clearly.",
+            "p3": "When you sit, you are not trying to manufacture peace. You are learning how your mind actually functions. You are discovering how attention wanders, how thoughts hook you, how emotions rise and demand identity. This is not failure — this is education.",
+            "p4": "Preparation matters because the mind does not become quiet simply because you wish it to. When you prepare your body, your space, and your intention, you are telling the psyche: this period is sacred, and I will not treat it casually. That seriousness changes the quality of the sitting.",
+            "p5": "During meditation, first you steady attention. Then you begin to notice thought without climbing into it. Then you allow emotions to surface without defending or dramatizing them. Gradually, something subtler appears — a quiet awareness that is not entangled in personality. That awareness is not created by you; it is uncovered when interference reduces.",
+            "p6": "When you finish, do not rush away. If you jump back into activity immediately, you train the mind to treat depth as temporary. Sit for a moment. Let the clarity settle. Then carry it into action. This is where the real test begins.",
+            "p7": "Meditation is not escape. It is refinement. If practiced sincerely, it will make you more honest, more responsible, and less driven by unconscious impulse. It will not flatter your ego — it will expose it. And that exposure is grace, if you are willing to accept it.",
+            "p8": "As you move through this series, take your time. Do not measure progress by experience. Measure it by stability, clarity, and integrity in daily life.",
+            "p9": "I welcome you to this work. I respect your willingness to look within. And I hope you continue this journey with steadiness and courage — not merely listening, but practicing, reflecting, and integrating what you discover.",
+            "closing": [
+                "Sit with sincerity.",
+                "Observe with courage.",
+                "Act with alignment."
+            ],
+            "begin": "Let us begin."
+        },
+        "space": {
+            "label": "Practical Instruction",
+            "title": "Your Meditation Space",
+            "p1": "Your meditation space is not about decoration. It is about conditioning the mind. If you sit in random places, at random times, with random posture, the mind remains casual. But when you create a dedicated space, you signal to your system that something deliberate is happening.",
+            "p2": "Choose one location and stay with it. It does not need to be large. It needs to be consistent. A corner of a room is enough — provided it is clean, quiet, and undisturbed.",
+            "p3": "Keep it simple.",
+            "p3_items": [
+                "A firm cushion or straight-backed chair.",
+                "Soft, natural light if possible.",
+                "Minimal objects. No clutter."
+            ],
+            "p4": "Clutter outside becomes agitation inside.",
+            "p5": "Avoid turning it into a shrine of excess symbolism. One visual anchor is enough — perhaps a subtle geometric form, a neutral artwork, or a simple candle. The purpose is to support attention, not illuminate imagination.",
+            "p6": "Ventilation matters. Stale air dulls alertness. Silence matters. If silence is not possible, choose consistent neutral background sound — not changing noise.",
+            "p7_label": "Before each session:",
+            "p7_items": [
+                "Tidy the space briefly.",
+                "Silence your devices completely.",
+                "Sit in the same position each time."
+            ],
+            "p8": "Over weeks, the mind will begin associating that space with stillness. Simply entering it will start quieting mental movement. This is psychological imprinting.",
+            "p9": "Treat the space with respect. Do not use it for work calls, social media scrolling, or emotional drama. Protect its function.",
+            "quote": "Your meditation space should communicate one thing to your nervous system:",
+            "quote_accent": "‘This is where I become inwardly honest.’",
+            "p10": "It does not need luxury. It needs intention, order, and repetition. Build it carefully. Maintain it quietly. Let it train you."
+        },
+        "session": {
+            "back": "Back to Meditations",
+            "listen": "Listen to the Transmission",
+            "transcript": "Transcript",
+            "transcriptComing": "Transcript coming soon...",
+            "all": "All Meditations",
+            "about": "The Philosophy"
+        },
+        "sessions": {
+            "breath-of-stillness": {
+                "title": "The Watcher Behind the Mind",
+                "description": "Theme: Discovering the Witness",
+                "longDescription": "Core: Observing thoughts without suppression\nDepth: Shift from thinker → observer → awareness"
+            },
+            "the-inner-witness": {
+                "title": "The Inner Scientist",
+                "description": "Theme: Meditation as investigation",
+                "longDescription": "Core: Dispassionate observation\nDepth: Detachment without emotional coldness"
+            },
+            "the-flash-of-the-overself": {
+                "title": "The Flash of the Overself",
+                "description": "Theme: Recognizing inner illumination",
+                "longDescription": "Core: Relaxation into sudden clarity\nDepth: Recognizing subtle intuitive presence"
+            },
+            "the-long-path": {
+                "title": "The Long Path — Self-Correction",
+                "description": "Theme: Refining ego tendencies",
+                "longDescription": "Core: Observe reaction patterns\nDepth: Silent character purification"
+            },
+            "the-short-path": {
+                "title": "The Short Path — Immediate Presence",
+                "description": "Theme: Effortless Being",
+                "longDescription": "Core: Drop all striving\nDepth: Recognize presence instantly"
+            },
+            "silence-without-forcing": {
+                "title": "Silence Without Forcing",
+                "description": "Theme: Non-violent stillness",
+                "longDescription": "Core: Letting quiet happen\nDepth: Difference between suppression and silence"
+            },
+            "self-remembering": {
+                "title": "Self-Remembering in Daily Life",
+                "description": "Theme: Awareness in activity",
+                "longDescription": "Core: Bring “I Am” into movement\nDepth: Dual attention practice"
+            },
+            "heart-of-detachment": {
+                "title": "The Heart of Detachment",
+                "description": "Theme: Emotional clarity",
+                "longDescription": "Core: Observe emotion without drowning\nDepth: Stable center during intensity"
+            },
+            "inner-guide": {
+                "title": "The Inner Guide",
+                "description": "Theme: Intuition vs imagination",
+                "longDescription": "Core: Feeling the higher impulse\nDepth: Recognizing ego vs Overself signals"
+            },
+            "descent-into-stillness": {
+                "title": "The Descent into Stillness",
+                "description": "Theme: Gradual interiorization",
+                "longDescription": "Core: Relax → subtle breath → subtle mind\nDepth: Enter deep quiet safely"
+            },
+            "presence-beyond-identity": {
+                "title": "The Presence Beyond Identity",
+                "description": "Theme: Beyond roles & personality",
+                "longDescription": "Core: Drop social self\nDepth: Awareness without label"
+            },
+            "grace-of-the-overself": {
+                "title": "The Grace of the Overself",
+                "description": "Theme: Surrender to higher intelligence",
+                "longDescription": "Core: Effort ends in receptivity\nDepth: Silent communion"
+            }
+        }
+    },
+    "about": {
+        "badge": "Contemplative Philosophy",
+        "title": "The Philosophy of the Overself",
+        "p1": "Overself Transmission is a digital space dedicated to the practical study and realization of higher consciousness — the Overself. Inspired by the profound records of Paul Brunton, these resources aim to provide a bridge between ancient wisdom and modern psychological lucidity.",
+        "p2": "We believe that meditation is not merely a tool for stress reduction, but a scientific instrument for inner investigation. It is a process of refining attention until the subtle presence behind the thinking mind becomes recognizable and eventually permanent.",
+        "p3": "The transmissions provided here are structured to guide the student through various degrees of interiorization, from simple witness-observation to the heights of silent communion with the Infinite.",
+        "quote": "The Overself is the presence within you which does not think, yet knows. It does not struggle, yet governs. It does not speak, yet guides.",
+        "p4": "Our goal is to provide a clear, sober, and precise path for those ready to move beyond belief into direct recognition of the Ground of Being."
+    },
+    "contact": {
+        "badge": "Connect",
+        "title": "Reach Out",
+        "intro": "If you have questions about the practice, the transmissions, or how to integrate these teachings into your daily life, please get in touch.",
+        "form": {
+            "labels": {
+                "name": "Full Name",
+                "email": "Email Address",
+                "message": "Your Message"
+            },
+            "placeholders": {
+                "name": "E.g. John Doe",
+                "email": "john@example.com",
+                "message": "How can we help?"
+            },
+            "submit": "Send Transmission",
+            "sending": "Sending...",
+            "successTitle": "Transmission Received",
+            "successMessage": "Thank you. We have received your message and will respond shortly.",
+            "error": "Something went wrong. Please try again."
+        }
+    },
+    "workbook": {
+        "badge": "Practical Companion",
+        "title": "The Meditation Workbook",
+        "p1": "To support your journey through the twelve transmissions, we have developed a companion workbook. It is designed to act as a structured framework for reflection and integration.",
+        "p2": "The workbook guides you through the technical aspects of each meditation, providing space to record observations, identify ego-patterns, and track the subtle shifts in your attention over time.",
+        "features": [
+            "Specific prompts for all 12 sessions",
+            "Contemplative exercises for daily life",
+            "Progressive tracking of mental stability",
+            "Space for intuitive insights and guidance"
+        ],
+        "cta": {
+            "title": "Download the PDF",
+            "subtitle": "Print it or use it digitally to deepen your practice.",
+            "label": "Download Workbook",
+            "button": "Download Now"
+        }
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "common": {
+        "nav": {
+            "home": "Início",
+            "meditations": "Meditações",
+            "workbook": "Caderno de Exercícios",
+            "contact": "Contato",
+            "about": "Sobre"
+        },
+        "footer": {
+            "rights": "Todos os direitos reservados."
+        },
+        "cta": {
+            "allMeditations": "Todas as Meditações",
+            "downloadWorkbook": "Baixar Caderno",
+            "begin": "Vamos começar",
+            "ready": "Pronto para ir mais fundo?",
+            "explore": "Explore a biblioteca completa de doze transmissões ou baixe o caderno de exercícios para apoiar sua prática fora das sessões."
+        }
+    },
+    "home": {
+        "hero": {
+            "title": "Retorne ao Silêncio Interior",
+            "subtitle": "Sessões de meditação guiada baseadas na filosofia contemplativa — dissolva a distração e retorne ao cerne do seu próprio ser.",
+            "cta1": "Explorar Meditações",
+            "cta2": "A Filosofia"
+        },
+        "masterIntro": {
+            "label": "Introdução Mestra",
+            "title": "A Transmissão do Eu-Superior",
+            "subtitle": "Doze Meditações Filosóficas Inspiradas por Paul Brunton",
+            "quote": "Existe dentro de você uma presença que não pensa, mas sabe.\nEla não luta, mas governa.\nEla não fala, mas guia.",
+            "p1": "Durante séculos, os místicos deram pistas sobre isso. Filósofos raciocinaram em direção a isso. Mas poucos o descreveram com tanta clareza e precisão psicológica como Paul Brunton fez: o Eu-Superior (Overself) — a consciência elevada por trás da personalidade.",
+            "p2": "Estas doze meditações não são exercícios de relaxamento. São investigações internas estruturadas. Não tentam induzir o transe. Elas cultivam a lucidez. Não suprimem a mente. Elas revelam a consciência por trás dela.",
+            "doorwayLabel": "Cada sessão representa um portal diferente:",
+            "doorways": [
+                "A Testemunha",
+                "O Caminho Longo",
+                "O Caminho Curto",
+                "Auto-Observação",
+                "Desapego",
+                "Orientação Interna",
+                "Graça"
+            ],
+            "p3": "Praticadas progressivamente, elas levam da disciplina mental ao reconhecimento intuitivo — e finalmente à comunhão silenciosa com o Eu-Superior.",
+            "summary": "Este é um trabalho contemplativo. É preciso. É sóbrio. É transformador."
+        },
+        "journey": {
+            "label": "A Jornada",
+            "title": "Abordando a Jornada",
+            "intro": "Para receber o benefício máximo desta série de meditação, você deve abordá-la como uma jornada estruturada — não como sessões de áudio isoladas.",
+            "phase1": {
+                "title": "Fase Um — O Conteúdo e o Trabalho Interno",
+                "p1": "Nesta fase, você está treinando a percepção. Ouça ativamente. Não faça várias tarefas ao mesmo tempo. Sente-se corretamente. Tome notas se necessário.",
+                "p2": "Após cada sessão, reflita brevemente sobre o que observou — especialmente padrões do ego, reações emocionais e estabilidade da atenção.",
+                "quote": "Não persiga experiências. Persiga a clareza.",
+                "p3": "Repita as sessões se necessário. A profundidade vem da repetição, não da novidade."
+            },
+            "phase2": {
+                "title": "Fase Dois — O Alinhamento Visual e Ambiental",
+                "p1": "O design visual, a arte e a linguagem estética não são decorativos. São ferramentas de enquadramento psicológico. Use-os intencionalmente.",
+                "p2": "Crie um espaço de meditação consistente. Use o mesmo pôster, a mesma âncora visual, o mesmo ambiente sempre que possível.",
+                "p3": "Isso constrói um condicionamento associativo na mente. Com o tempo, o simples fato de entrar nesse espaço começará a acalmar seu sistema.",
+                "footer": "Respeite a atmosfera. Ela treina o subconsciente."
+            },
+            "phase3": {
+                "title": "Fase Três — Som, Música e Condicionamento Sutil",
+                "p1": "O design de som foi construído para apoiar a atenção, não para entretê-lo. Ouça com bons fones de ouvido ou alto-falantes de qualidade.",
+                "p2": "Evite distrações. Não use a meditação como áudio de fundo enquanto realiza outras tarefas.",
+                "p3": "Permita que o silêncio trabalhe. Algumas sessões podem parecer minimalistas — isso é intencional. A profundidade cresce no silêncio."
+            },
+            "principlesLabel": "Princípios Chave:",
+            "principles": [
+                "A consistência é mais poderosa do que a intensidade.",
+                "Uma prática diária curta é melhor do que uma prática longa ocasional.",
+                "A integração na vida cotidiana é a verdadeira medida do progresso."
+            ],
+            "guidance": "Após cada sessão, faça uma pausa antes de retornar à atividade. Carregue um insight para o seu dia. Observe suas reações. Corrija-se gentil mas firmemente.",
+            "guidanceQuote": "Não se trata de tornar-se espiritual. Trata-se de tornar-se consciente.",
+            "guidanceSummary": "Se você se comprometer com a estrutura, respeitar as fases e praticar com sinceridade, os benefícios se acumularão silenciosa mas constantemente.",
+            "footer": [
+                "Não apresse o processo.",
+                "Permaneça com ele.",
+                "E permita que o trabalho o remodele ao longo do tempo."
+            ]
+        },
+        "featured": {
+            "label": "Sessão em Destaque",
+            "title": "Comece Aqui"
+        }
+    },
+    "meditations": {
+        "label": "A Prática",
+        "title": "Meditações",
+        "welcome": {
+            "title": "Bem-vindo. Fico feliz que você esteja aqui.",
+            "p1": "Você está entrando em uma série de meditação inspirada na abordagem filosófica de Paul Brunton — um caminho que não promete conforto, mas sim clareza. Isto não é um sistema de suavização emocional. É uma investigação disciplinada sobre a própria consciência.",
+            "p2": "Meditação não é algo que você “faz” para se sentir melhor por um tempo. É algo que você entra porque está pronto para se ver claramente.",
+            "p3": "Quando você se senta, não está tentando fabricar paz. Você está aprendendo como sua mente realmente funciona. Você está descobrindo como a atenção vagueia, como os pensamentos o prendem, como as emoções surgem e exigem identidade. Isso não é fracasso — isso é educação.",
+            "p4": "A preparação é importante porque a mente não se torna silenciosa simplesmente porque você deseja. Quando você prepara seu corpo, seu espaço e sua intenção, você está dizendo à psique: este período é sagrado e não o tratarei casualmente. Essa seriedade muda a qualidade do sentar.",
+            "p5": "Durante a meditação, primeiro você estabiliza a atenção. Então você começa a notar o pensamento sem entrar nele. Então você permite que as emoções surjam sem defendê-las ou dramatizá-las. Gradualmente, algo mais sutil aparece — uma consciência silenciosa que não está emaranhada na personalidade. Essa consciência não é criada por você; ela é descoberta quando a interferência diminui.",
+            "p6": "Quando terminar, não saia correndo. Se você pular de volta para a atividade imediatamente, treinará a mente para tratar a profundidade como algo temporário. Sente-se por um momento. Deixe a clareza se estabelecer. Então leve-a para a ação. É aqui que o verdadeiro teste começa.",
+            "p7": "Meditação não é fuga. É refinamento. Se praticada sinceramente, tornará você mais honesto, mais responsável e menos impulsionado por impulsos inconscientes. Não bajulará seu ego — ela o exporá. E essa exposição é graça, se você estiver disposto a aceitá-la.",
+            "p8": "À medida que você avança nesta série, tome seu tempo. Não meça o progresso pela experiência. Meça-o pela estabilidade, clareza e integridade na vida diária.",
+            "p9": "Eu lhe dou as boas-vindas a este trabalho. Respeito sua disposição de olhar para dentro. E espero que você continue esta jornada com firmeza e coragem — não apenas ouvindo, mas praticando, refletindo e integrando o que descobrir.",
+            "closing": [
+                "Sente-se com sinceridade.",
+                "Observe com coragem.",
+                "Agir com alinhamento."
+            ],
+            "begin": "Let us begin."
+        },
+        "space": {
+            "label": "Instrução Prática",
+            "title": "Seu Espaço de Meditação",
+            "p1": "Seu espaço de meditação não é sobre decoração. É sobre condicionar a mente. Se você se sentar em lugares aleatórios, em horários aleatórios, com postura aleatória, a mente permanece casual. Mas quando você cria um espaço dedicado, você sinaliza ao seu sistema que algo deliberado está acontecendo.",
+            "p2": "Escolha um local e permaneça nele. Não precisa ser grande. Precisa ser consistente. Um canto de uma sala é suficiente — desde que seja limpo, silencioso e imperturbável.",
+            "p3": "Mantenha a simplicidade.",
+            "p3_items": [
+                "Uma almofada firme ou cadeira de encosto reto.",
+                "Luz suave e natural, se possível.",
+                "Objetos mínimos. Sem bagunça."
+            ],
+            "p4": "A bagunça externa torna-se agitação interna.",
+            "p5": "Evite transformá-lo em um altar de excesso de simbolismo. Uma âncora visual é suficiente — talvez uma forma geométrica sutil, uma obra de arte neutra ou uma vela simples. O propósito é apoiar a atenção, não estimular a imaginação.",
+            "p6": "A ventilação é importante. O ar viciado diminui o alerta. O silêncio é importante. Se o silêncio não for possível, escolha um som de fundo neutro e consistente — não um ruído variável.",
+            "p7_label": "Antes de cada sessão:",
+            "p7_items": [
+                "Arrumar o espaço brevemente.",
+                "Silenciar seus dispositivos completamente.",
+                "Sentar-se na mesma posição todas as vezes."
+            ],
+            "p8": "Ao longo das semanas, a mente começará a associar esse espaço com a quietude. O simples fato de entrar nele começará a acalmar o movimento mental. Isso é imprinting psicológico.",
+            "p9": "Trate o espaço com respeito. Não o use para chamadas de trabalho, redes sociais ou dramas emocionais. Proteja sua função.",
+            "quote": "Seu espaço de meditação deve comunicar uma coisa ao seu sistema nervoso:",
+            "quote_accent": "‘Este é o lugar onde me torno interiormente honesto.’",
+            "p10": "Não precisa de luxo. Precisa de intenção, ordem e repetição. Construa-o com cuidado. Mantenha-o silenciosamente. Deixe que ele o treine."
+        },
+        "session": {
+            "back": "Voltar para Meditações",
+            "listen": "Ouça a Transmissão",
+            "transcript": "Transcrição",
+            "transcriptComing": "Transcrição disponível em breve...",
+            "all": "Todas as Meditações",
+            "about": "A Filosofia"
+        },
+        "sessions": {
+            "breath-of-stillness": {
+                "title": "A Testemunha por trás da Mente",
+                "description": "Tema: Descobrindo a Testemunha",
+                "longDescription": "Núcleo: Observar pensamentos sem supressão\nProfundidade: Mudança de pensador → observador → consciência"
+            },
+            "the-inner-witness": {
+                "title": "O Cientista Interno",
+                "description": "Tema: Meditação como investigação",
+                "longDescription": "Núcleo: Observação desapaixonada\nProfundidade: Desapego sem frieza emocional"
+            },
+            "the-flash-of-the-overself": {
+                "title": "O Clarão do Eu-Superior",
+                "description": "Tema: Reconhecendo a iluminação interior",
+                "longDescription": "Núcleo: Relaxamento em clareza repentina\nProfundidade: Reconhecendo a presença intuitiva sutil"
+            },
+            "the-long-path": {
+                "title": "O Caminho Longo — Auto-Correção",
+                "description": "Tema: Refinando tendências do ego",
+                "longDescription": "Núcleo: Observar padrões de reação\nProfundidade: Purificação silenciosa do caráter"
+            },
+            "the-short-path": {
+                "title": "O Caminho Curto — Presença Imediata",
+                "description": "Tema: Ser Sem Esforço",
+                "longDescription": "Núcleo: Abandonar todo empenho\nProfundidade: Reconhecer a presença instantaneamente"
+            },
+            "silence-without-forcing": {
+                "title": "Silêncio Sem Forçar",
+                "description": "Tema: Quietude não-violenta",
+                "longDescription": "Núcleo: Deixar o silêncio acontecer\nProfundidade: Diferença entre supressão e silêncio"
+            },
+            "self-remembering": {
+                "title": "Auto-Lembrança na Vida Diária",
+                "description": "Tema: Consciência em atividade",
+                "longDescription": "Núcleo: Trazer o “Eu Sou” para o movimento\nProfundidade: Prática de atenção dupla"
+            },
+            "heart-of-detachment": {
+                "title": "O Coração do Desapego",
+                "description": "Tema: Clareza emocional",
+                "longDescription": "Núcleo: Observar a emoção sem se afogar\nProfundidade: Centro estável durante a intensidade"
+            },
+            "inner-guide": {
+                "title": "O Guia Interno",
+                "description": "Tema: Intuição vs imaginação",
+                "longDescription": "Núcleo: Sentir o impulso superior\nProfundidade: Reconhecer sinais do ego vs Eu-Superior"
+            },
+            "descent-into-stillness": {
+                "title": "A Descida à Quietude",
+                "description": "Tema: Interiorização gradual",
+                "longDescription": "Núcleo: Relaxar → respiração sutil → mente sutil\nProfundidade: Entrar no silêncio profundo com segurança"
+            },
+            "presence-beyond-identity": {
+                "title": "A Presença Além da Identidade",
+                "description": "Tema: Além de papéis e personalidade",
+                "longDescription": "Núcleo: Abandonar o eu social\nProfundidade: Consciência sem rótulo"
+            },
+            "grace-of-the-overself": {
+                "title": "A Graça do Eu-Superior",
+                "description": "Tema: Entrega à inteligência superior",
+                "longDescription": "Núcleo: O esforço termina em receptividade\nProfundidade: Comunhão silenciosa"
+            }
+        }
+    },
+    "about": {
+        "badge": "Filosofia Contemplativa",
+        "title": "A Filosofia do Eu-Superior",
+        "p1": "Overself Transmission é um espaço digital dedicado ao estudo prático e à realização da consciência elevada — o Eu-Superior. Inspirados nos profundos registros de Paul Brunton, esses recursos visam fornecer uma ponte entre a sabedoria antiga e a lucidez psicológica moderna.",
+        "p2": "Acreditamos que a meditação não é meramente uma ferramenta para redução do estresse, mas um instrumento científico para a investigação interior. É um processo de refinamento da atenção até que a presença sutil por trás da mente pensante se torne reconhecível e, eventualmente, permanente.",
+        "p3": "As transmissões fornecidas aqui são estruturadas para guiar o estudante através de vários graus de interiorização, desde a simples observação da testemunha até os altos de comunhão silenciosa com o Infinito.",
+        "quote": "O Eu-Superior é a presença dentro de você que não pensa, mas sabe. Ele não luta, mas governa. Ele não fala, mas guia.",
+        "p4": "Nosso objetivo é fornecer um caminho claro, sóbrio e preciso para aqueles prontos para ir além da crença em direção ao reconhecimento direto do Cerne do Ser."
+    },
+    "contact": {
+        "badge": "Conectar",
+        "title": "Entre em Contato",
+        "intro": "Se você tiver dúvidas sobre a prática, as transmissões ou como integrar esses ensinamentos em sua vida diária, entre em contato.",
+        "form": {
+            "labels": {
+                "name": "Nome Completo",
+                "email": "Endereço de E-mail",
+                "message": "Sua Mensagem"
+            },
+            "placeholders": {
+                "name": "Ex: João Silva",
+                "email": "joao@exemplo.com",
+                "message": "Como podemos ajudar?"
+            },
+            "submit": "Enviar Transmissão",
+            "sending": "Enviando...",
+            "successTitle": "Transmissão Recebida",
+            "successMessage": "Obrigado. Recebemos sua mensagem e responderemos em breve.",
+            "error": "Algo deu errado. Por favor, tente novamente."
+        }
+    },
+    "workbook": {
+        "badge": "Acompanhante Prático",
+        "title": "O Caderno de Meditação",
+        "p1": "Para apoiar sua jornada através das doze transmissões, desenvolvemos um caderno de exercícios. Ele foi projetado para atuar como uma estrutura estruturada para reflexão e integração.",
+        "p2": "O caderno o guia através dos aspectos técnicos de cada meditação, fornecendo espaço para registrar observações, identificar padrões do ego e rastrear as mudanças sutis em sua atenção ao longo do tempo.",
+        "features": [
+            "Prompts específicos para todas as 12 sessões",
+            "Exercícios contemplativos para a vida diária",
+            "Acompanhamento progressivo da estabilidade mental",
+            "Espaço para insights intuitivos e orientação"
+        ],
+        "cta": {
+            "title": "Baixar o PDF",
+            "subtitle": "Imprima-o ou use-o digitalmente para aprofundar sua prática.",
+            "label": "Baixar Caderno",
+            "button": "Baixe Agora"
+        }
+    }
+}
