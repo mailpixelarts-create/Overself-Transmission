@@ -6,7 +6,7 @@ import { getDictionary } from "@/get-dictionary";
 import { Locale } from "@/i18n-config";
 
 const brittany = LocalFont({
-    src: "../../BrittanySignature.ttf",
+    src: "../../../public/BrittanySignature.ttf",
     variable: "--font-brittany",
     display: "swap",
 });
