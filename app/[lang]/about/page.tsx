@@ -1,8 +1,15 @@
 import type { Metadata } from "next";
+import LocalFont from "next/font/local";
 import FadeIn from "@/components/FadeIn";
 import Container from "@/components/Container";
 import { getDictionary } from "@/get-dictionary";
 import { Locale } from "@/i18n-config";
+
+const brittany = LocalFont({
+    src: "../../../public/BrittanySignature.ttf",
+    variable: "--font-brittany",
+    display: "swap",
+});
 
 export const metadata: Metadata = {
     title: "About",
@@ -57,7 +64,7 @@ export default async function AboutPage({
                     <FadeIn delay={0.6}>
                         <div className="mt-12 text-center">
                             <p className="font-serif italic text-foreground/70 text-lg mb-4">{dict.about?.signature?.closing}</p>
-                            <p className="font-serif text-2xl text-foreground tracking-wide" style={{ fontFamily: "'Playfair Display', serif", fontStyle: "italic" }}>
+                            <p className={`text-3xl text-foreground tracking-wide ${brittany.variable}`} style={{ fontFamily: "var(--font-brittany)" }}>
                                 {dict.about?.signature?.name}
                             </p>
                         </div>
