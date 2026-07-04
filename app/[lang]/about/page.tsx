@@ -53,6 +53,15 @@ export default async function AboutPage({
                     <FadeIn delay={0.5}>
                         <p>{dict.about?.p4}</p>
                     </FadeIn>
+
+                    <FadeIn delay={0.6}>
+                        <div className="mt-12 text-center">
+                            <p className="font-serif italic text-foreground/70 text-lg mb-4">{dict.about?.signature?.closing}</p>
+                            <p className="font-serif text-2xl text-foreground tracking-wide" style={{ fontFamily: "'Playfair Display', serif", fontStyle: "italic" }}>
+                                {dict.about?.signature?.name}
+                            </p>
+                        </div>
+                    </FadeIn>
                 </div>
             </Container>
         </section>
