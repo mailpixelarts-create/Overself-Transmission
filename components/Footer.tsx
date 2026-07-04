@@ -52,7 +52,7 @@ export default function Footer({ lang }: FooterProps) {
                         </Link>
                     ))}
                 </nav>
-                <p>&copy; {new Date().getFullYear()} Norman James. {dict.rights}</p>
+                <p>Made with <span className="text-red-500">❤</span> © 2026 Norman James. All rights reserved.</p>
             </Container>
         </footer>
     );
